@@ -30,7 +30,6 @@ namespace LetterLoops
                 }
             }
             Console.WriteLine(outputString);
-            Console.ReadKey();
         }
     }
 }
